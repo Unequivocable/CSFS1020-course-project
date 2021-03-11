@@ -61,7 +61,7 @@ node_modules/
 jspm_packages/
 
 # Secure Data
-data/
+data/entries.json
 notes/
 
 # TypeScript v1 declaration files

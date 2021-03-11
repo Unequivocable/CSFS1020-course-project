@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Admin",
+    "email": "admin@admin.admin",
+    "id": "239c79ab-08a1-4a80-9b44-9de39b5938cd",
+    "hashedPassword": "$argon2i$v=19$m=4096,t=3,p=1$OXweI2TjR9xkTVs036XcmQ$4nzvMJ0+7Z0TLG87S38VzYtaTyM/n7FKScapVnM1S/s"
+  }
+]
