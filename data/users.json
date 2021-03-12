@@ -4,24 +4,5 @@
     "email": "admin@admin.admin",
     "id": "239c79ab-08a1-4a80-9b44-9de39b5938cd",
     "hashedPassword": "$argon2i$v=19$m=4096,t=3,p=1$OXweI2TjR9xkTVs036XcmQ$4nzvMJ0+7Z0TLG87S38VzYtaTyM/n7FKScapVnM1S/s"
-  },
-  {
-    "name": "dfdf",
-    "email": "dfdf@email.com",
-    "id": "0cd32fea-9c84-4607-a2e5-0f09fbbbcebb",
-    "hashedPassword": "$argon2i$v=19$m=4096,t=3,p=1$zRk9D5u7A92FXYM/RBBdeA$pxbD7aodm2Ma64iYlK4Xnd6LRk1d4gvHirv5PfMAZ7w"
-  },
-  {
-    "name": "Dustin Siggelkow",
-    "email": "unequivocable@gmail.com",
-    "confirmPassword": "password123",
-    "id": "90e2507f-a383-41fb-9247-ae28e3bd0e3c",
-    "hashedPassword": "$argon2i$v=19$m=4096,t=3,p=1$BMEXG6slMegHATGmXl9F2w$LmoK93fVwoyRrb9+lGnaKzaarPmQ4GpH0J0VOI+RAKo"
-  },
-  {
-    "name": "New User",
-    "email": "user@user.user",
-    "id": "69325a7c-6fa1-4b27-a09f-c30d852d59ad",
-    "hashedPassword": "$argon2i$v=19$m=4096,t=3,p=1$KNbtHjw0ZJtji+8xD7mccg$qahtHwshAmvrIbCtgDQojmxCZ74Qyqf1NRoo5TvUmGA"
   }
 ]
